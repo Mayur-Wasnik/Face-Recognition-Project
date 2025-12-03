@@ -1,0 +1,11 @@
+# Python Virtual Environments
+venv/
+venv_311/
+__pycache__/
+
+# Generated Data
+face_encodings.pkl
+
+# Operating System Files
+.DS_Store
+Thumbs.db
