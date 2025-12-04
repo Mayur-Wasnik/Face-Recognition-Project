@@ -19,7 +19,7 @@ known_face_names = data['names']
 print(f"Successfully loaded {len(known_face_names)} known faces.")
 
 # Initialize the video capture object
-# video_capture = ?
+
 video_capture = cv2.VideoCapture(0)
 if not video_capture.isOpened():
     print("Error: Could not open video.")
