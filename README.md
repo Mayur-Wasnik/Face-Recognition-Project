@@ -96,7 +96,9 @@ Start the main program loop to activate your webcam and perform real-time recogn
 python recognize_face.py
 ```
 
-**To Exit**: Press the `q` key when the webcam window is active.## ⚠️ Troubleshooting Guide (Windows Errors)
+**To Exit**: Press the `q` key when the webcam window is active.
+
+## ⚠️ Troubleshooting Guide (Windows Errors)
 
 This project often fails due to environment issues. If your initial installation fails, refer to these solutions:
 
